@@ -4,7 +4,7 @@
 - Scans **20 ATS platforms** every 15 minutes for remote AI/GenAI engineer jobs
 - Uses **Claude AI** to match each JD against your resume (0–100% score)
 - **≥80% match** → Automatically fills & submits the application
-- **60–79% match** → Emails the JD to melanieharriet05@gmail.com for you to decide
+- **60–79% match** → Emails the JD to email@gmail.com for you to decide
 - **<60%** → Skipped silently
 - Sends **LinkedIn connection requests** to the hiring manager/recruiter after applying
 - Logs **everything** in a colour-coded Excel spreadsheet
